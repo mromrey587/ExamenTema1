@@ -1,8 +1,8 @@
 
-package javaapplication78;
+package Examen14;
 
 
-public class JavaApplication78 {
+public class Examen14 {
 
 
     public static void main(String[] args) {
